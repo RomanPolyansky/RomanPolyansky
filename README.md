@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RomanPolyansky
 - 👀 I’m interested in Game Development on Unity
 - 🌱 I’m currently learning Everything
-- 📫 You can reach me by any contact means.
+- 📫 You can reach me by any contact means available around here
 
 # Useful code
 Here I will be posting code practices that I developed myself for future self and anyone else.
