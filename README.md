@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RomanPolyansky
-- 👀 I’m interested in Game Development on Unity
+- 👀 I’m interested in Game Development on Unity & Java Development
 - 🌱 I’m currently learning Everything
 - 📫 You can reach me by any contact means available around here
 
