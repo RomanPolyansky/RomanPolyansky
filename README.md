@@ -3,7 +3,11 @@
 - 🌱 I’m currently learning Everything
 - 📫 You can reach me by any contact means available around here
 
-# Useful code
+
+# My Praktikum Java Learning Path
+Here I will be posting code practices that I developed myself for future self and anyone else.
+
+# My Unity Learning Path
 Here I will be posting code practices that I developed myself for future self and anyone else.
 * [Circle Mesh Generator](https://github.com/RomanPolyansky/RomanPolyansky/blob/main/CircleMesh.cs) (A simple 2D circle mesh for Unity with changing radius and number of angles)
 
